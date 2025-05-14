@@ -6,6 +6,9 @@ Eu sou Danilo lima, sou programador front end, atualmente estou aprendendo e cri
 <br>
 <br>
 -Html
+<br>
 -css
+<br>
 -javaScript
+<br>
 -React
